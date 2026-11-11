@@ -64,7 +64,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.winlator.FileProvider"
+            android:authorities="com.raxal.android.FileProvider"
             android:exported="false"
             android:grantUriPermissions="true">
 

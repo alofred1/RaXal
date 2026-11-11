@@ -5,7 +5,7 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.RaXal.android'
+        applicationId 'com.raxal.android'
         minSdkVersion 26
         targetSdkVersion 28
         versionCode 33
